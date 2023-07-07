@@ -1,0 +1,11 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNgStudy.NewTest1"/>
+      <class name="testNgStudy.TesstNgBank"/>
+      <class name="testNgStudy.TestngEbay"/>
+      <class name="testNgStudy.my1stTestNgProg"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
